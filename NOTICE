@@ -1,0 +1,39 @@
+Zerava Technologies Inc. - downloads
+
+This repository holds no source code. It publishes the built files and their
+checksums as release assets. Each release's files carry their own licence and
+notice; those files govern.
+
+GNU General Public License, version 3 or later
+----------------------------------------------
+Releases from these versions on are free and open source under the GNU General
+Public License, version 3 or (at your option) any later version. The full text
+is in LICENSE.md here and inside every download.
+
+  PSE Analyzer     0.3.2 and later    source: https://github.com/zeravatechnologies/pse-analyzer
+                   Copyright (C) 2026 Andrej Ristic / Zerava Technologies Inc.
+
+  Pivot Benchmark  0.9.1-preview and later
+                                      source: https://github.com/zeravatechnologies/pivot-bench
+                   Copyright (C) 2026 Zerava Technologies Inc.
+
+Each download also contains a NOTICE file with an additional term under
+section 7(b) of the GNU GPL version 3: the authorship notice must be preserved
+in every copy or modified version. Read it inside the download you use.
+
+These programs are distributed in the hope that they will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.
+
+Earlier releases
+----------------
+These two releases were published before the move to the GPL, under the
+Zerava Technologies Inc. Software Licence 1.0, kept in LICENSE-ZERAVA-1.0.md
+for the record. It applies to them only:
+
+  PSE Analyzer     0.3.1             (tag pse-analyzer-v0.3.1)
+  Pivot Benchmark  0.9.0-preview     (tag pivot-benchmark-v0.9.0-preview)
+
+PSE Analyzer 0.3.2 is the same program as 0.3.1 under the GPL; use it instead.
+
+Questions: info@zeravatech.ca
